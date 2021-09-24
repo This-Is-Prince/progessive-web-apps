@@ -1,0 +1,1 @@
+*,*:after,*:before{margin:0;padding:0;box-sizing:border-box}body{font-family:cursive}.box{display:flex;align-items:center;justify-content:center;min-height:100vh}.box h1{font-size:4rem;letter-spacing:.25rem;font-variant:small-caps;color:#0ff;padding:.5rem 1.5rem;background-color:#000;box-shadow:5px 5px 10px #00000080}

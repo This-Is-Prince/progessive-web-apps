@@ -1,0 +1,26 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: cursive;
+}
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+.box h1 {
+  font-size: 4rem;
+  letter-spacing: 0.25rem;
+  font-variant: small-caps;
+  color: aqua;
+  padding: 0.5rem 1.5rem;
+  background-color: black;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
